@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Pokémon TCG Browser
+
+A web application built with Next.js that allows users to search and browse detailed information about Pokémon trading cards using the Pokémon TCG API.
+
+Features
+
+Search Functionality: Quickly find Pokémon cards by name or type.
+
+Detailed Card Information: View card details including rarity, stats, and more.
+
+API Integration: Powered by the Pokémon TCG API.
+
+
+
 
 ## Getting Started
 
@@ -14,7 +27,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open https://tcgcard.vercel.app/ with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
